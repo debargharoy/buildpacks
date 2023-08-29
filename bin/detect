@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+echo "========== Detect Phase =========="
+echo "Input is: $1"
+echo "Running test buildpack"
+exit 0

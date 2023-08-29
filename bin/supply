@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+echo "========== Supply Phase =========="
+echo "Input 1: $1"
+echo "Input 2: $2"
+echo "Input 3: $3"
+echo "Input 4: $4"
+echo "Running test buildpack"
