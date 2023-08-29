@@ -4,5 +4,5 @@ echo "Input 1: $1"
 cat <<EOF
 ---
 default_process_types:
-  web: echo "Hello, world!"
+  web: ./start.sh
 EOF
